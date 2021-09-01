@@ -34,8 +34,10 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Supporting Organisation
 -----------------------
-
+## Parrot Security
 <a href="https://www.parrotsec.org/">
-<img src="assets/images/506px-Parrot_Logo.png" width="150" height="150">
+<figure>
+  <img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security" width="150" />
+</figure>
 </a>
 
