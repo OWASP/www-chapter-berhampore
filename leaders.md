@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sandipan Roy](mailto:sandipan.roy@owasp.org)
+* [Apurbo Mandal](mailto:apurbo.mandal@owasp.org)
