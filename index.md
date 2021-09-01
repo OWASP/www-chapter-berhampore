@@ -36,8 +36,6 @@ Supporting Organisation
 -----------------------
 ## Parrot Security
 <a href="https://www.parrotsec.org/">
-<figure>
-  <img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security" width="150" />
-</figure>
+  <img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security" width="150">
 </a>
 
