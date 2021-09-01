@@ -4,7 +4,7 @@ displaytext: Leaders Information
 layout: null
 tab: true
 order: 2
-tags: owasp-pune
+tags: owasp-berhampore
 ---
 
 ### Leaders
