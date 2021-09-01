@@ -36,3 +36,5 @@ Supporting Organisation
 -----------------------
 
 [Parrot Security](https://www.parrotsec.org)
+![Parrot Sec Logo](assets/images/parrot.png)
+
