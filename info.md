@@ -7,7 +7,7 @@
 
 ### Social Links
 * [Twitter](https://twitter.com/owasp_msd)
-* [Meetup.com](https://www.meetup.com/owasp-berhampore/)
+* [Meetup.com](https://www.meetup.com/owasp-berhampore-chapter/)
 * [Telegram](https://t.me/OWASP_Murshidabad)
 * [Linkedin](https://www.linkedin.com/groups/13998122/)
 * [Facebook](https://www.facebook.com/groups/owaspmurshidabad)
