@@ -14,7 +14,8 @@ postal-code:
 
 
 
-OWASP Murshidabad
+OWASP Berhampore
+
 ----------
 Welcome to the Berhampore chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are <a href="mailto:sandipan.roy@owasp.org">Sandipan Roy</a>, <a href="mailto:apurbo.mandal@owasp.org">Apurbo Mandal</a>. 
 
