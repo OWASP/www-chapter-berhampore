@@ -21,7 +21,16 @@ Welcome to the Murshidabad chapter homepage. The Open Web Application Security P
 
 Follow chapter news on [Linkedin](https://www.linkedin.com/groups/13998122/) \| [Meetup](https://www.meetup.com/) \| [Telegram](https://t.me/OWASP_Murshidabad) \| [Facebook Group](www.facebook.com/groups/owaspmurshidabad/)
 
+## Participation
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
+Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+
 ## Upcoming Meeting:
+
+* Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -32,10 +41,19 @@ Speaking at OWASP Murshidabad Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Murshidabad Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
 
-Supporting Organisation
------------------------
-## Parrot Security
-<a href="https://www.parrotsec.org/">
-  <img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security" width="150">
-</a>
+
+Supporters
+----------------
+The following are the list of organizations/teams who have supported the OWASP Nagpur chapter in some or the other way:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td height="150" width="150" >
+
+<a href="https://www.parrotsec.org/"><img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security"/></a>
+
+</td>
+
+</tr>
+</table>
 
