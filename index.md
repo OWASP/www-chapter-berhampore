@@ -1,12 +1,12 @@
 ---
 layout: col-sidebar
-title: OWASP Murshidabad
+title: OWASP Berhampore
 site_side: true
-tags: owasp-murshidabad
+tags: 
 level: 3
 region: Asia
 currency: in
-meetup-group: OWASP-Murshidabad-Chapter
+meetup-group: 
 country: India
 postal-code: 
 
@@ -16,7 +16,7 @@ postal-code:
 
 OWASP Murshidabad
 ----------
-Welcome to the Murshidabad chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are <a href="mailto:sandipan.roy@owasp.org">Sandipan Roy</a>, <a href="mailto:apurbo.mandal@owasp.org">Apurbo Mandal</a>. 
+Welcome to the Berhampore chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are <a href="mailto:sandipan.roy@owasp.org">Sandipan Roy</a>, <a href="mailto:apurbo.mandal@owasp.org">Apurbo Mandal</a>. 
 
 
 Follow chapter news on [Linkedin](https://www.linkedin.com/groups/13998122/) \| [Meetup](https://www.meetup.com/) \| [Telegram](https://t.me/OWASP_Murshidabad) \| [Facebook Group](https://www.facebook.com/groups/owaspmurshidabad/) \| [Twitter](https://twitter.com/OWASP_MSD)
@@ -34,7 +34,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Speaking at OWASP Murshidabad Chapter Events
+Speaking at OWASP Berhampore Chapter Events
 -------------------------------------
 
 #### Call For Speakers
