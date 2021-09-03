@@ -1,4 +1,4 @@
-![OWASP Berhampore Chapter](bhp.jpeg "OWASP Berhampore Chapter")
+![OWASP Berhampore Chapter](assets/images/bhp.jpeg "OWASP Berhampore Chapter")
 
 ### Berhampore Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
