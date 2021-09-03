@@ -1,3 +1,5 @@
+![OWASP Berhampore Chapter](bhp.jpeg "OWASP Berhampore Chapter")
+
 ### Berhampore Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
