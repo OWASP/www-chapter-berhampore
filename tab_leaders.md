@@ -9,7 +9,7 @@ tags: owasp-berhampore
 
 ### Leaders
 * [Sandipan Roy](mailto:sandipan.roy@owasp.org) -> [Twitter](https://twitter.com/ByteHackr) \| [LinkedIn](https://www.linkedin.com/in/ByteHackr) \| [GitHub](https://github.com/ByteHackr/)
-* [Apurbo Mandal](mailto:apurbo.mandal@owasp.org) -> [LinkedIn](https://www.linkedin.com/in/apumax)
+* [Apurbo Mandal](mailto:apurbo.mandal@owasp.org) ->[Twitter](https://twitter.com/apumax_1) \| [LinkedIn](https://www.linkedin.com/in/apumax) \| [GitHub](https://github.com/apumax-1)
 
 
 ### Volunteers
