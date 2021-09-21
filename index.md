@@ -39,6 +39,7 @@ Speaking at OWASP Berhampore Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Berhampore Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
 
+We are Requested to Fill the Google Form:  https://red.ht/OWASP_BHP
 
 Sponsors
 ----------------
