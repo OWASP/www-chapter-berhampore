@@ -6,7 +6,7 @@ tags: owasp-berhampore
 level: 3
 region: Asia
 currency: in
-meetup-group: 
+meetup-group: owasp-berhampore-chapter 
 country: India
 postal-code: 
 
