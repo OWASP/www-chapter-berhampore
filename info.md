@@ -15,5 +15,4 @@
 * [Facebook](https://www.facebook.com/groups/owaspbhp)
 
 ### Volunteers
-* [Debraj Dey](mailto:debrajdey.official@gmail.com)
 * Sayantan Datta
