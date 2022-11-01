@@ -44,13 +44,7 @@ Sponsors
 ----------------
 The following are the list of organizations/teams who have supported the OWASP Berhampore chapter in some or the other way:
 
-<table cellpadding="15" cellspacing="0">
-<tr>
-<td height="150" width="150" >
 
-<
-
-</td>
 
 </tr>
 </table>
