@@ -48,7 +48,7 @@ The following are the list of organizations/teams who have supported the OWASP B
 <tr>
 <td height="150" width="150" >
 
-<a href="https://www.parrotsec.org/"><img src="assets/images/506px-Parrot_Logo.png" alt="Parrot Security"/></a>
+<
 
 </td>
 
